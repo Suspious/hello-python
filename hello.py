@@ -1,0 +1,17 @@
+print("Hello wereld van… ")
+import time
+time.sleep(2)
+
+print('pppp    y     y   ttttttt   h   h    oooo   nnnn ')
+time.sleep(0.5)
+print(' p   p    y   y       t      h   h   o    o  n   n')
+time.sleep(0.5)
+print("p   p     y y        t      h   h   o    o  n   n")
+time.sleep(0.5)
+print("pppp       y         t      hhhhh   o    o  n   n")
+time.sleep(0.5)
+print(" p          y         t      h   h   o    o  n   n")
+time.sleep(0.5)
+print(" p          y         t      h   h   o    o  n   n")
+time.sleep(0.5)
+print("  p          y         t      h   h    oooo   n   n")
